@@ -1,0 +1,13 @@
+<html>
+<head>
+  <body>
+   <form action="spoofed_form.php" method="post">
+         Enter your name:<input type="text" name="name" value="name" />
+	<input type="submit" value= "Submit">
+           
+   </form>
+  <body>
+</head>
+</html>
+
+
