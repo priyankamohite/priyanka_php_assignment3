@@ -1,0 +1,11 @@
+<html>
+  <head>
+     <body>
+        <form action="file_upload.php" method="GET">
+            <input type ="text" name="filename" />
+            <input type=submit value=upload>	
+        </form>
+     </body>
+  </head>
+</html>
+
